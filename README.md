@@ -1,4 +1,4 @@
-# Active-Directory-VirtualBox
+# Active Directory VirtualBox
 
 I want to express my gratitude to Josh Madakor for his excellent tutorial on setting up a comprehensive Active Directory lab on your personal computer using VirtualBox. Configuring and running this lab greatly improved my understanding of Active Directory and Windows networking. To deepen my knowledge, I analyzed and deconstructed the setup multiple times, reinforcing my foundational skills. After several repetitions, I challenged myself to build the lab without referring to the tutorial, further solidifying my expertise.
 
